@@ -18,7 +18,7 @@ const SettingsPage = () => {
 
   return (
     <NavBar>
-        <div>This is the Setting Page</div>
+        <div>This is the Settings Page</div>
 
         <input
           onChange={(e) => {
